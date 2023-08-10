@@ -1,4 +1,4 @@
-
+### Apenas a 1 arquivo do plugin.
 ### Como demonstração do meu desenvolvimento de plugin no Wordpress usando woocomerce e sistema de pagamento.
 
 ### getwaypagamento-split
