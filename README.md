@@ -3,9 +3,12 @@
 
 ### getwaypagamento-split
 
-Esse plugin foi desenvolvido por mim, com coloboração na regras de negocio um webmaster que também colaborou em partes logicas na programação. O plugin consiste de funcionalidades como dependencias do plugin multiplos vendedores, woocommerce-extra-checkout-fields-for-brazil.
-- Metódo de pagamento, Boleto, Pix e Cartão.
-- Cadastro e porcentagem do dono da conta.
-- Cadastro e porcentagem do vendedor.
-- Cadastro e porcentagem dos recebedores.
-- Split do pagamento entre essas contas cadastradas integrado com o sistema de split pagarme.
+Apresentação do meu desenvolvimento de plugin no WordPress utilizando o WooCommerce e um sistema de pagamento.
+Plugin de Pagamento Split para WooCommerce
+Desenvolvi este plugin em colaboração com um webmaster, contribuindo com as regras de negócios e partes lógicas da programação. O plugin oferece funcionalidades como dependências de outros plugins, suportando múltiplos vendedores e o plugin 'WooCommerce Extra Checkout Fields for Brazil'.
+
+Métodos de pagamento incluem Boleto, Pix e Cartão de Crédito.
+Cadastro com porcentagem do titular da conta.
+Cadastro com porcentagem do vendedor.
+Cadastro com porcentagem dos recebedores.
+Realiza a divisão do pagamento entre essas contas cadastradas, integrando-se com o sistema de split do Pagarme.
